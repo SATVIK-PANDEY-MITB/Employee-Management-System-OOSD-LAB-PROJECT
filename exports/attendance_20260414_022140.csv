@@ -1,0 +1,5 @@
+Attendance ID,Employee ID,Date,Status,Remarks
+"2001","1001","2026-04-07","Absent",""
+"2002","1002","2026-04-07","Present",""
+"2003","1003","2026-04-07","Leave","Medical leave"
+"2004","1001","2026-04-14","Absent",""

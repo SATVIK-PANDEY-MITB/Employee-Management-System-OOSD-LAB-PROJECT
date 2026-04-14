@@ -1,0 +1,6 @@
+Employee ID,Name,Designation,Salary,Department,Phone,Email,Status,Joining Date
+"1001","Rajesh Kumar","Manager","50000.0","IT","9876543210","rajesh@company.com","Active","2022-01-15"
+"1002","Priya Singh","Developer","40000.0","IT","9876543211","priya@company.com","Active","2022-03-20"
+"1003","Amit Patel","HR Manager","45000.0","HR","9876543212","amit@company.com","Active","2021-07-10"
+"1004","Sonu","Manager","20000.0","Finance","8765435789","abc@gmail.com","Active","2026-02-07"
+"1005","Amit","Manager","200000.0","HR","2387902789","abc@gmail.com","Active","2026-04-14"
